@@ -1,0 +1,6 @@
+# Logfile created on 2019-10-16 20:29:36 +1300 by logger.rb/66358
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-10-16 20:29:36 +1300 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [cfeb96fa] Running /usr/bin/env mkdir -p /tmp as app-user@50ftcl.it
+ DEBUG [cfeb96fa] Command: /usr/bin/env mkdir -p /tmp
