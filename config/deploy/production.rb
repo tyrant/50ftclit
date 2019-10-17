@@ -60,4 +60,4 @@
 #     # password: "please use keys"
 #   }
 
-server "119.9.42.4", user: 'app-user', roles: %w(web app)
+server "119.9.42.4", user: 'app-user', password: 'hostable730', roles: %w(web app)

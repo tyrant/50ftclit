@@ -38,3 +38,6 @@ set :deploy_to, "/home/app-user/50ftclit"
 # Uncomment the following to require manually verifying the host key before first deploy.
 # set :ssh_options, verify_host_key: :secure
 set :ssh_options, { forward_agent: true }
+
+set :rbenv_type, :user
+set :rbenv_ruby, '2.6.5'
