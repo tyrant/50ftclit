@@ -41,3 +41,4 @@ set :ssh_options, { forward_agent: true }
 
 set :rbenv_type, :user
 set :rbenv_ruby, '2.6.5'
+set :passenger_restart_with_sudo, true
