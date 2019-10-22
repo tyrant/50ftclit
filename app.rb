@@ -107,7 +107,7 @@ routes = [
   ['tarantara', 'https://www.youtube.com/watch?v=pmBq_xtuOUM'],
   ['tealc', 'https://www.youtube.com/watch?v=FImgqhivLBw'],
   ['tears', 'https://www.youtube.com/watch?v=y9SXqIR-Gos'],
-  ['tedious-length', 'https://www.youtube.com/watch?v=D0mYKddn5BE#t=90m1s'],
+  ['tedious-length', 'https://www.youtube.com/watch?v=D0mYKddn5BE#t=9m1s'],
   ['tetris', 'https://www.youtube.com/watch?v=H2Qo3vDxJBc#t=10m4s'],
   ['the-beauty-the-beauty-ohh-the-beauty', 'https://www.youtube.com/watch?v=tEuT9sePcI4'],
   ['torso', 'https://www.pinterest.nz/pin/537406168014706093/'],
