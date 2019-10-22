@@ -3,5 +3,5 @@ require 'bundler'
 
 Bundler.require
 
-require './50ftclit.rb'
-run 50FtClit
+require './fiftyftclit.rb'
+run FiftyFtClit
