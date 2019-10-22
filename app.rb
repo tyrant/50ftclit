@@ -33,7 +33,7 @@ routes = [
   ['comic-sans', 'https://www.achewood.com/index.php?date=07052007'],
   ['concrete', 'https://www.youtube.com/watch?v=2J0oTemjzrY#t=27m05s'],
   ['crack', 'https://www.youtube.com/watch?v=eJW1tzNLwI8'],
-  ['cuban-pete', 'https://www.youtube.com/watch?v=1hgeu9AOLqY'],
+  ['cuban-pete', 'https://www.youtube.com/watch?v=qfO_OfmGOl0'],
   ['destroy', 'https://www.amazon.com/OffWorld-Designs-Unisex-Destroy-T-Shirt/dp/B00UCFHU1A'],
   ['diana', 'https://www.youtube.com/watch?v=YrAFqE36anw#t=7m30s'],
   ['doubledickdude', 'https://reddit.com/u/doubledickdude'],
