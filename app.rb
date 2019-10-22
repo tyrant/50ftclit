@@ -46,6 +46,7 @@ routes = [
   ['fab', 'https://www.youtube.com/watch?v=nauGAeTNLko'],
   ['f1-tyres', 'https://www.youtube.com/watch?v=pKb2Bt5eC7M#t=4m41s'],
   ['fate', 'https://www.youtube.com/watch?v=XS3gtuczcbU#t=1h18m20s'],
+  ['faux-sweater', 'https://www.amazon.com/Faux-Real-Sublimated-Christmas-T-Shirt/dp/B07K95W5CG?fbclid=IwAR2Oyt30S0AY47ktoILH7cz1M0fFjLm3cYJ5X6FGQilGp0WRcumZjLmILfE'],
   ['fix', 'https://www.youtube.com/watch?v=C2s0aOhkjmY'],
   ['gigantosnatch', 'verbicidemagazine.com/wp-content/uploads/2011/07/dock.jpg'],
   ['goon', 'http://thegoonshow.net/scripts_show.asp?title=s05e17_china_story'],
