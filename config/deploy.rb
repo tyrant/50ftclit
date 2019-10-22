@@ -1,5 +1,3 @@
-# config valid for current version and patch releases of Capistrano
-lock "~> 3.11.2"
 
 set :application, "50ftclit"
 set :repo_url, "git@github.com:tyrant/50ftclit.git"
@@ -41,4 +39,6 @@ set :ssh_options, { forward_agent: true }
 
 set :rbenv_type, :user
 set :rbenv_ruby, '2.6.5'
-set :passenger_restart_with_sudo, true
+
+# http://stackoverflow.com/questions/34126546
+set :rbenv_path, '/home/app-user/.rbenv'
