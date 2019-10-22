@@ -3,5 +3,5 @@ require 'bundler'
 
 Bundler.require
 
-require './fiftyftclit.rb'
-run FiftyFtClit
+require './app.rb'
+run Sinatra::Application
