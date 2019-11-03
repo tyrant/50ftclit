@@ -42,6 +42,8 @@ set :rbenv_ruby, '2.6.5'
 # http://stackoverflow.com/questions/34126546
 set :rbenv_path, '/home/app-user/.rbenv'
 
+set :stage, :production
+
 before :deploy, 'git:add'
 before :deploy, 'git:commit'
 before :deploy, 'git:push'
