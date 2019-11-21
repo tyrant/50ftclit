@@ -133,9 +133,12 @@ routes = [
   ['yorkshire2', 'https://www.youtube.com/watch?v=7Lb-2VaJYPw'],
 ]
 
-
 get '/:shortened' do
   if route = routes.find {|r| r[0] === params['shortened'] }
     redirect route[1]
   end
+end
+
+get '/ignition' do
+  send_file File.join('public', 'ignition.pdf')
 end
