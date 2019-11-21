@@ -138,7 +138,3 @@ get '/:shortened' do
     redirect route[1]
   end
 end
-
-get '/ignition' do
-  send_file File.join('public', 'ignition.pdf')
-end

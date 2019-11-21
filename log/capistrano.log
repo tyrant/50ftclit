@@ -3283,3 +3283,135 @@ To install the missing version, run `gem install bundler:2.0.2`
  DEBUG [e030f5e1] Finished in 0.161 seconds with exit status 0 (successful).
   INFO [88190f56] Running git add -A . as michaelclarke@localhost
  DEBUG [88190f56] Command: git add -A .
+  INFO [88190f56] Finished in 0.350 seconds with exit status 0 (successful).
+  INFO [15c877af] Running git commit -m "Moar" as michaelclarke@localhost
+ DEBUG [15c877af] Command: git commit -m "Moar"
+ DEBUG [15c877af] 	[master 677d76a] Moar
+ DEBUG [15c877af] 	 3 files changed, 135 insertions(+), 1 deletion(-)
+ DEBUG [15c877af] 	 create mode 100644 public/ignition.pdf
+  INFO [15c877af] Finished in 0.071 seconds with exit status 0 (successful).
+  INFO [289a3177] Running git push as michaelclarke@localhost
+ DEBUG [289a3177] Command: git push
+ DEBUG [289a3177] 	To github.com:tyrant/50ftclit.git
+ DEBUG [289a3177] 	   7118785..677d76a  master -> master
+  INFO [289a3177] Finished in 26.377 seconds with exit status 0 (successful).
+  INFO [a7e97981] Running /usr/bin/env mkdir -p /tmp as app-user@119.9.42.4
+ DEBUG [a7e97981] Command: ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" ; /usr/bin/env mkdir -p /tmp )
+  INFO [a7e97981] Finished in 0.113 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-50ftclit-production-michaelclarke.sh 0.0%
+  INFO Uploading /tmp/git-ssh-50ftclit-production-michaelclarke.sh 100.0%
+  INFO [95c11395] Running /usr/bin/env chmod 700 /tmp/git-ssh-50ftclit-production-michaelclarke.sh as app-user@119.9.42.4
+ DEBUG [95c11395] Command: ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" ; /usr/bin/env chmod 700 /tmp/git-ssh-50ftclit-production-michaelclarke.sh )
+  INFO [95c11395] Finished in 0.179 seconds with exit status 0 (successful).
+  INFO [ef4bf69c] Running /usr/bin/env git ls-remote git@github.com:tyrant/50ftclit.git HEAD as app-user@119.9.42.4
+ DEBUG [ef4bf69c] Command: ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-50ftclit-production-michaelclarke.sh" ; /usr/bin/env git ls-remote git@github.com:tyrant/50ftclit.git HEAD )
+ DEBUG [ef4bf69c] 	677d76a44d139a4245d0535b0a1d18a0cb28215f	HEAD
+  INFO [ef4bf69c] Finished in 2.484 seconds with exit status 0 (successful).
+  INFO [0aec474c] Running /usr/bin/env mkdir -p /home/app-user/50ftclit/shared /home/app-user/50ftclit/releases as app-user@119.9.42.4
+ DEBUG [0aec474c] Command: ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" ; /usr/bin/env mkdir -p /home/app-user/50ftclit/shared /home/app-user/50ftclit/releases )
+  INFO [0aec474c] Finished in 0.153 seconds with exit status 0 (successful).
+ DEBUG [3fdccb93] Running [ -f /home/app-user/50ftclit/current/REVISION ] as app-user@119.9.42.4
+ DEBUG [3fdccb93] Command: [ -f /home/app-user/50ftclit/current/REVISION ]
+ DEBUG [3fdccb93] Finished in 0.188 seconds with exit status 0 (successful).
+ DEBUG [49f07000] Running /usr/bin/env cat /home/app-user/50ftclit/current/REVISION 2>/dev/null as app-user@119.9.42.4
+ DEBUG [49f07000] Command: ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" ; /usr/bin/env cat /home/app-user/50ftclit/current/REVISION 2>/dev/null )
+ DEBUG [49f07000] 	71187852c0f936a2707f159112834b57b06b8101
+ DEBUG [49f07000] Finished in 0.185 seconds with exit status 0 (successful).
+ DEBUG [74195583] Running [ -f /home/app-user/50ftclit/repo/HEAD ] as app-user@119.9.42.4
+ DEBUG [74195583] Command: [ -f /home/app-user/50ftclit/repo/HEAD ]
+ DEBUG [74195583] Finished in 0.187 seconds with exit status 0 (successful).
+  INFO The repository mirror is at /home/app-user/50ftclit/repo
+ DEBUG [959fd13a] Running if test ! -d /home/app-user/50ftclit/repo; then echo "Directory does not exist '/home/app-user/50ftclit/repo'" 1>&2; false; fi as app-user@119.9.42.4
+ DEBUG [959fd13a] Command: if test ! -d /home/app-user/50ftclit/repo; then echo "Directory does not exist '/home/app-user/50ftclit/repo'" 1>&2; false; fi
+ DEBUG [959fd13a] Finished in 0.176 seconds with exit status 0 (successful).
+  INFO [aa134c1d] Running /usr/bin/env git remote set-url origin git@github.com:tyrant/50ftclit.git as app-user@119.9.42.4
+ DEBUG [aa134c1d] Command: cd /home/app-user/50ftclit/repo && ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-50ftclit-production-michaelclarke.sh" ; /usr/bin/env git remote set-url origin git@github.com:tyrant/50ftclit.git )
+  INFO [aa134c1d] Finished in 0.232 seconds with exit status 0 (successful).
+  INFO [8fa3268f] Running /usr/bin/env git remote update --prune as app-user@119.9.42.4
+ DEBUG [8fa3268f] Command: cd /home/app-user/50ftclit/repo && ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-50ftclit-production-michaelclarke.sh" ; /usr/bin/env git remote update --prune )
+ DEBUG [8fa3268f] 	Fetching origin
+ DEBUG [8fa3268f] 	From github.com:tyrant/50ftclit
+ DEBUG [8fa3268f] 	   7118785..677d76a  master     -> master
+  INFO [8fa3268f] Finished in 5.214 seconds with exit status 0 (successful).
+ DEBUG [3e4fdb0b] Running if test ! -d /home/app-user/50ftclit/repo; then echo "Directory does not exist '/home/app-user/50ftclit/repo'" 1>&2; false; fi as app-user@119.9.42.4
+ DEBUG [3e4fdb0b] Command: if test ! -d /home/app-user/50ftclit/repo; then echo "Directory does not exist '/home/app-user/50ftclit/repo'" 1>&2; false; fi
+ DEBUG [3e4fdb0b] Finished in 0.170 seconds with exit status 0 (successful).
+  INFO [9f3dd5ac] Running /usr/bin/env mkdir -p /home/app-user/50ftclit/releases/20191121085306 as app-user@119.9.42.4
+ DEBUG [9f3dd5ac] Command: cd /home/app-user/50ftclit/repo && ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-50ftclit-production-michaelclarke.sh" ; /usr/bin/env mkdir -p /home/app-user/50ftclit/releases/20191121085306 )
+  INFO [9f3dd5ac] Finished in 0.210 seconds with exit status 0 (successful).
+  INFO [cf9c9ffa] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/app-user/50ftclit/releases/20191121085306 as app-user@119.9.42.4
+ DEBUG [cf9c9ffa] Command: cd /home/app-user/50ftclit/repo && ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-50ftclit-production-michaelclarke.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/app-user/50ftclit/releases/20191121085306 )
+  INFO [cf9c9ffa] Finished in 0.297 seconds with exit status 0 (successful).
+ DEBUG [cdf0c924] Running if test ! -d /home/app-user/50ftclit/repo; then echo "Directory does not exist '/home/app-user/50ftclit/repo'" 1>&2; false; fi as app-user@119.9.42.4
+ DEBUG [cdf0c924] Command: if test ! -d /home/app-user/50ftclit/repo; then echo "Directory does not exist '/home/app-user/50ftclit/repo'" 1>&2; false; fi
+ DEBUG [cdf0c924] Finished in 0.153 seconds with exit status 0 (successful).
+ DEBUG [599fd9bb] Running /usr/bin/env git rev-list --max-count=1 master as app-user@119.9.42.4
+ DEBUG [599fd9bb] Command: cd /home/app-user/50ftclit/repo && ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-50ftclit-production-michaelclarke.sh" ; /usr/bin/env git rev-list --max-count=1 master )
+ DEBUG [599fd9bb] 	677d76a44d139a4245d0535b0a1d18a0cb28215f
+ DEBUG [599fd9bb] Finished in 0.162 seconds with exit status 0 (successful).
+ DEBUG [f27355cc] Running if test ! -d /home/app-user/50ftclit/releases/20191121085306; then echo "Directory does not exist '/home/app-user/50ftclit/releases/20191121085306'" 1>&2; false; fi as app-user@119.9.42.4
+ DEBUG [f27355cc] Command: if test ! -d /home/app-user/50ftclit/releases/20191121085306; then echo "Directory does not exist '/home/app-user/50ftclit/releases/20191121085306'" 1>&2; false; fi
+ DEBUG [f27355cc] Finished in 0.174 seconds with exit status 0 (successful).
+  INFO [49b30215] Running /usr/bin/env echo "677d76a44d139a4245d0535b0a1d18a0cb28215f" > REVISION as app-user@119.9.42.4
+ DEBUG [49b30215] Command: cd /home/app-user/50ftclit/releases/20191121085306 && ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" ; /usr/bin/env echo "677d76a44d139a4245d0535b0a1d18a0cb28215f" > REVISION )
+  INFO [49b30215] Finished in 0.156 seconds with exit status 0 (successful).
+ DEBUG [4896e376] Running if test ! -d /home/app-user/50ftclit/releases/20191121085306; then echo "Directory does not exist '/home/app-user/50ftclit/releases/20191121085306'" 1>&2; false; fi as app-user@119.9.42.4
+ DEBUG [4896e376] Command: if test ! -d /home/app-user/50ftclit/releases/20191121085306; then echo "Directory does not exist '/home/app-user/50ftclit/releases/20191121085306'" 1>&2; false; fi
+ DEBUG [4896e376] Finished in 0.157 seconds with exit status 0 (successful).
+ DEBUG [95877a6d] Running /home/app-user/.rbenv/bin/rbenv exec bundle check --path /home/app-user/50ftclit/shared/bundle as app-user@119.9.42.4
+ DEBUG [95877a6d] Command: cd /home/app-user/50ftclit/releases/20191121085306 && ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" ; /home/app-user/.rbenv/bin/rbenv exec bundle check --path /home/app-user/50ftclit/shared/bundle )
+ DEBUG [95877a6d] 	The Gemfile's dependencies are satisfied
+ DEBUG [95877a6d] Finished in 0.865 seconds with exit status 0 (successful).
+  INFO The Gemfile's dependencies are satisfied, skipping installation
+  INFO [141959af] Running /usr/bin/env ln -s /home/app-user/50ftclit/releases/20191121085306 /home/app-user/50ftclit/releases/current as app-user@119.9.42.4
+ DEBUG [141959af] Command: ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" ; /usr/bin/env ln -s /home/app-user/50ftclit/releases/20191121085306 /home/app-user/50ftclit/releases/current )
+  INFO [141959af] Finished in 0.097 seconds with exit status 0 (successful).
+  INFO [bae6be18] Running /usr/bin/env mv /home/app-user/50ftclit/releases/current /home/app-user/50ftclit as app-user@119.9.42.4
+ DEBUG [bae6be18] Command: ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" ; /usr/bin/env mv /home/app-user/50ftclit/releases/current /home/app-user/50ftclit )
+  INFO [bae6be18] Finished in 0.171 seconds with exit status 0 (successful).
+ DEBUG [b6cc078f] Running if test ! -d /home/app-user/50ftclit/releases/20191121085306; then echo "Directory does not exist '/home/app-user/50ftclit/releases/20191121085306'" 1>&2; false; fi as app-user@119.9.42.4
+ DEBUG [b6cc078f] Command: if test ! -d /home/app-user/50ftclit/releases/20191121085306; then echo "Directory does not exist '/home/app-user/50ftclit/releases/20191121085306'" 1>&2; false; fi
+ DEBUG [b6cc078f] Finished in 0.154 seconds with exit status 0 (successful).
+ DEBUG [389e8760] Running /usr/bin/env passenger -v as app-user@119.9.42.4
+ DEBUG [389e8760] Command: cd /home/app-user/50ftclit/releases/20191121085306 && ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" ; /usr/bin/env passenger -v )
+ DEBUG [389e8760] 	Phusion Passenger 6.0.2
+ DEBUG [389e8760] 	
+ DEBUG [389e8760] Finished in 0.222 seconds with exit status 0 (successful).
+  INFO [f6b9a18b] Running /usr/bin/env passenger-config restart-app /home/app-user/50ftclit --ignore-app-not-running as app-user@119.9.42.4
+ DEBUG [f6b9a18b] Command: cd /home/app-user/50ftclit/releases/20191121085306 && ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" ; /usr/bin/env passenger-config restart-app /home/app-user/50ftclit --ignore-app-not-running )
+ DEBUG [f6b9a18b] 	Restarting /home/app-user/50ftclit/current (production)
+  INFO [f6b9a18b] Finished in 0.476 seconds with exit status 0 (successful).
+ DEBUG [583b0de1] Running /usr/bin/env ls -x /home/app-user/50ftclit/releases as app-user@119.9.42.4
+ DEBUG [583b0de1] Command: ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" ; /usr/bin/env ls -x /home/app-user/50ftclit/releases )
+ DEBUG [583b0de1] 	20191103205018	20191103205534	20191103205729	20191104003207	20191104003507
+20191121085306
+ DEBUG [583b0de1] Finished in 0.160 seconds with exit status 0 (successful).
+  INFO Keeping 5 of 6 deployed releases on 119.9.42.4
+ DEBUG [a09a5d1f] Running [ -d /home/app-user/50ftclit/current ] as app-user@119.9.42.4
+ DEBUG [a09a5d1f] Command: [ -d /home/app-user/50ftclit/current ]
+ DEBUG [a09a5d1f] Finished in 0.155 seconds with exit status 0 (successful).
+ DEBUG [2e09c439] Running /usr/bin/env readlink /home/app-user/50ftclit/current as app-user@119.9.42.4
+ DEBUG [2e09c439] Command: ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" ; /usr/bin/env readlink /home/app-user/50ftclit/current )
+ DEBUG [2e09c439] 	/home/app-user/50ftclit/releases/20191121085306
+ DEBUG [2e09c439] Finished in 0.158 seconds with exit status 0 (successful).
+  INFO [f1b570ad] Running /usr/bin/env rm -rf /home/app-user/50ftclit/releases/20191103205018 as app-user@119.9.42.4
+ DEBUG [f1b570ad] Command: ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" ; /usr/bin/env rm -rf /home/app-user/50ftclit/releases/20191103205018 )
+  INFO [f1b570ad] Finished in 0.254 seconds with exit status 0 (successful).
+ DEBUG [8bfdcc13] Running if test ! -d /home/app-user/50ftclit/releases; then echo "Directory does not exist '/home/app-user/50ftclit/releases'" 1>&2; false; fi as app-user@119.9.42.4
+ DEBUG [8bfdcc13] Command: if test ! -d /home/app-user/50ftclit/releases; then echo "Directory does not exist '/home/app-user/50ftclit/releases'" 1>&2; false; fi
+ DEBUG [8bfdcc13] Finished in 0.156 seconds with exit status 0 (successful).
+  INFO [80b0b042] Running /usr/bin/env echo "Branch master (at 677d76a44d139a4245d0535b0a1d18a0cb28215f) deployed as release 20191121085306 by michaelclarke" >> /home/app-user/50ftclit/revisions.log as app-user@119.9.42.4
+ DEBUG [80b0b042] Command: cd /home/app-user/50ftclit/releases && ( export RBENV_ROOT="/home/app-user/.rbenv" RBENV_VERSION="2.6.5" ; /usr/bin/env echo "Branch master (at 677d76a44d139a4245d0535b0a1d18a0cb28215f) deployed as release 20191121085306 by michaelclarke" >> /home/app-user/50ftclit/revisions.log )
+  INFO [80b0b042] Finished in 0.163 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-11-21 21:55:28 +1300 cap deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [9ce01ce1] Running [ -d /home/app-user/.rbenv/versions/2.6.5 ] as app-user@119.9.42.4
+ DEBUG [9ce01ce1] Command: [ -d /home/app-user/.rbenv/versions/2.6.5 ]
+ DEBUG [9ce01ce1] Finished in 0.637 seconds with exit status 0 (successful).
+ DEBUG [2c0bfebf] Running /usr/bin/env which passenger as app-user@119.9.42.4
+ DEBUG [2c0bfebf] Command: /usr/bin/env which passenger
+ DEBUG [2c0bfebf] 	/usr/bin/passenger
+ DEBUG [2c0bfebf] Finished in 0.153 seconds with exit status 0 (successful).
+  INFO [30dcef10] Running git add -A . as michaelclarke@localhost
+ DEBUG [30dcef10] Command: git add -A .
