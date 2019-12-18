@@ -28,6 +28,7 @@ routes = [
   #['butterfield-404', 'find that link to his website 404ing'],
   ['catacombs', 'https://en.wikipedia.org/wiki/Catacombs_of_Paris'],
   ['clf3', 'https://blogs.sciencemag.org/pipeline/archives/2008/02/26/sand_wont_save_you_this_time'],
+  ['clunge', 'https://www.youtube.com/watch?v=5rx3RwwakAA#t=23m'],
   ['cockney', 'https://www.youtube.com/watch?v=w0aTzevVjqk'],
   ['coke-wank', 'https://www.youtube.com/watch?v=6WLOdXGhJbA'],
   ['comic-sans', 'https://www.achewood.com/index.php?date=07052007'],
