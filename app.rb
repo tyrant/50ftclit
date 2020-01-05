@@ -70,6 +70,7 @@ routes = [
   ['kneegrow', 'https://www.youtube.com/watch?v=JGzw2ecfkqU'], # account deleted
   ['kowloon-walled-city', 'https://en.wikipedia.org/wiki/Kowloon_Walled_City'],
   ['kray', 'https://www.youtube.com/watch?v=mBL3XB-PhE8'],
+  ['kung-pow', 'https://www.youtube.com/watch?v=TEzoZ6tqUjA'],
   ['lead', 'https://www.youtube.com/watch?v=dceB3SKBw9w'],
   ['lobotomobile', 'https://www.thevintagenews.com/2017/01/14/walter-freeman-who-championed-lobotomy-in-the-us-was-touring-with-his-lobotomobile-demonstrating-the-procedure/'],
   ['lobotomobile-myth', 'https://medium.com/@Jack_ElHai/fighting-the-legend-of-the-lobotomobile-1b0acf8a8eb0'],
