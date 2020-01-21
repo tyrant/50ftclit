@@ -119,6 +119,7 @@ routes = [
   ['tedious-length', 'https://www.youtube.com/watch?v=D0mYKddn5BE#t=9m1s'],
   ['tetris', 'https://www.youtube.com/watch?v=H2Qo3vDxJBc#t=10m4s'],
   ['the-beauty-the-beauty-ohh-the-beauty', 'https://www.youtube.com/watch?v=tEuT9sePcI4'],
+  ['the-traitors-hand', 'https://www.goodreads.com/en/book/show/463988'],
   ['thighs', 'https://www.youtube.com/watch?v=6cDohyRbzeo#t=2m10s'],
   ['torso', 'https://www.pinterest.nz/pin/537406168014706093/'],
   ['tower', 'https://www.youtube.com/watch?v=HdBZ3Pg0-OM'],
