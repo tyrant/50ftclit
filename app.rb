@@ -6,6 +6,7 @@ require 'sinatra'
 # URL we're redirecting to.
 routes = [
   ['abfab', 'https://www.youtube.com/watch?v=ToTBlI1w23o'],
+  ['ace-ventura', 'https://www.youtube.com/watch?v=RRy5JJfw-JI'],
   ['addams', 'https://www.youtube.com/watch?v=-Z6STPcw3Ac#t=2m39s'],
   ['angel', 'https://imgur.com/gallery/FkMkZ'],
   ['antechinus', 'https://en.wikipedia.org/wiki/Antechinus'],
@@ -73,6 +74,7 @@ routes = [
   ['kray', 'https://www.youtube.com/watch?v=mBL3XB-PhE8'],
   ['kung-pow', 'https://www.youtube.com/watch?v=TEzoZ6tqUjA'],
   ['lead', 'https://www.youtube.com/watch?v=dceB3SKBw9w'],
+  ['liger', 'https://www.youtube.com/watch?v=Y5aW6Y4aF0s'],
   ['lobotomobile', 'https://www.thevintagenews.com/2017/01/14/walter-freeman-who-championed-lobotomy-in-the-us-was-touring-with-his-lobotomobile-demonstrating-the-procedure/'],
   ['lobotomobile-myth', 'https://medium.com/@Jack_ElHai/fighting-the-legend-of-the-lobotomobile-1b0acf8a8eb0'],
   ['look-what-happens-when-you-shrink-preproduction-from-three-years-to-three-months-no-seriously-wtf', 'https://www.youtube.com/watch?v=DHQSmJq0nmQ'],
