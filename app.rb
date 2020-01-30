@@ -143,5 +143,7 @@ routes = [
 get '/:shortened' do
   if route = routes.find {|r| r[0] === params['shortened'] }
     redirect route[1]
+  else
+    redirect 'https://imgur.com'
   end
 end
