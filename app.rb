@@ -15,7 +15,7 @@ routes = [
   ['atlas', 'https://www.youtube.com/watch?v=AatcIe1qoT4'],
   ['bailey', 'https://www.youtube.com/watch?v=OoxBMfCCnWM'],
   ['balance', 'https://www.youtube.com/watch?v=PHkbDhzXLV4#t=19m30s'],
-  ['barrowman', 'https://www.youtube.com/watch?v=YlQfW9oK1G4#t=38s'],
+  ['barrowman', 'https://www.youtube.com/watch?v=1zY1orxW8Aw#t=45s'],
   ['bedsprings', 'https://www.youtube.com/watch?v=uPxKW7RR7h0#t=29m45s'],
   ['bellamy', 'https://en.wikipedia.org/wiki/Bellamy_salute'],
   ['best-korea', 'https://knowyourmeme.com/photos/65469-best-korea'],
@@ -129,7 +129,7 @@ routes = [
   ['tracks', 'https://www.youtube.com/watch?v=KfgifHh5R4Y#t=19m2s'],
   ['trump', 'https://en.wikipedia.org/wiki/Melania_Trump'],
   ['tsiolkovsky', 'https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation'],
-  ['undies', 'https://www.youtube.com/watch?v=T-ReyfcNWZ8#t=20m5s'],
+  ['undies', 'https://www.youtube.com/watch?v=T-ReyfcNWZ8#t=20m5s'], # Video unavailable! :O 
   ['wank', 'https://www.youtube.com/watch?v=u5RjG4-K9Gc'],
   ['warm', 'https://dilbert.com/strip/1995-01-16'],
   ['wellington', 'https://www.youtube.com/watch?v=Bp0NHIH4WoE#t=15m45s'],
