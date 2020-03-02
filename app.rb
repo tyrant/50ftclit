@@ -134,6 +134,7 @@ routes = [
   ['wank', 'https://www.youtube.com/watch?v=u5RjG4-K9Gc'],
   ['warm', 'https://dilbert.com/strip/1995-01-16'],
   ['wellington', 'https://www.youtube.com/watch?v=Bp0NHIH4WoE#t=15m45s'],
+  ['what-a-mistake-a-to-make-a', 'https://www.youtube.com/watch?v=5Cpethdep0o'],
   ['whimsical', 'https://articles.aplus.com/a/dudeoir-woodsman-photoshoot-donates-to-charity'],
   ['winnie-the-pooh', 'https://www.youtube.com/watch?v=H_3oXfgB35E'],
   ['worm', 'https://www.youtube.com/watch?v=LPf9oJV_qDw'],
