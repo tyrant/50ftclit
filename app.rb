@@ -113,6 +113,7 @@ routes = [
   ['python-origin', 'https://quora.com/How-did-Monty-Python-get-its-name/answer/Jan-Layton'],
   ['republic-of-texas', 'https://en.wikipedia.org/wiki/Republic_of_Texas'],
   ['roar', 'https://www.youtube.com/watch?v=OH0n_Ew2YDM'],
+  ['rosbif', 'https://www.urbandictionary.com/define.php?term=rosbif'],
   ['seals', 'https://navyseals.com/nsw/hell-week-0/'],
   ['schlieffen', 'https://en.wikipedia.org/wiki/Schlieffen_Plan'],
   ['shatting', 'https://www.youtube.com/watch?v=yNPBuEwLF1c'],
