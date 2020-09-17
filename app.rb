@@ -30,6 +30,7 @@ routes = [
   ['business-time', 'https://www.youtube.com/watch?v=WGOohBytKTU#t=1m55s'],
   ['butter', 'https://www.youtube.com/watch?v=05Byne839Pg#t=1m16s'],
   #['butterfield-404', 'find that link to his website 404ing'],
+  ['carolina-reaper', 'https://www.chilipeppermadness.com/chili-pepper-types/superhot-chili-peppers/carolina-reaper/'],
   ['catacombs', 'https://en.wikipedia.org/wiki/Catacombs_of_Paris'],
   ['challenge', 'https://www.amazon.com/Doc-Johnson-Classic-American-Challenge/dp/B002E9I0F2'],
   ['clf3', 'https://blogs.sciencemag.org/pipeline/archives/2008/02/26/sand_wont_save_you_this_time'],
@@ -92,6 +93,7 @@ routes = [
   ['man-about-town', 'https://www.youtube.com/watch?v=xMxsLKQidY4'],
   ['matrix', 'https://www.youtube.com/watch?v=2oEnJfZ9joY'],
   ['maui', 'https://www.youtube.com/watch?v=Dadu2KLjMVM'],
+  ['macrae-tartan', 'http://clan-macrae.org.uk/scotland/history.cfm?ID=39']
   ['mechanic', 'https://mashable.com/2015/04/22/queen-elizabeth-army/'],
   ['mel-b', 'https://www.youtube.com/watch?v=g58CIZYeRFE#t=37m4s'],
   ['metallica', 'https://www.youtube.com/watch?v=-SJJkgc_rNc'],
