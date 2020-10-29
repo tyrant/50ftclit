@@ -61,7 +61,7 @@ routes = [
   ['gigantosnatch', 'https://www.verbicidemagazine.com/wp-content/uploads/2011/07/dock.jpg'],
   ['goon', 'http://thegoonshow.net/scripts_show.asp?title=s05e17_china_story'],
   ['great-man', 'https://en.wikipedia.org/wiki/Great_man_theory'],
-  ['grond', 'https://www.youtube.com/watch?v=u9BinUHHPv0'],
+  ['grond', 'https://www.youtube.com/watch?v=u9BinUHHPv0&lc=Ugxfok9Fq3Msz3i5cVd4AaABAg'],
   ['high', 'https://en.wikipedia.org/wiki/Explosive#High_explosives'],
   ['hogan', 'https://www.youtube.com/watch?v=ypE2oT-8Zag'],
   ['hope', 'https://www.youtube.com/watch?v=wtoHjGWc2s8#t=2m28s'],
