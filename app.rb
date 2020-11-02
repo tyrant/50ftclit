@@ -73,6 +73,7 @@ routes = [
   ['i-vow-to-thee', 'https://www.youtube.com/watch?v=o6ZvylOSy5A'],
   ['jackson', 'https://www.youtube.com/watch?v=7lvsBBNV-U4'],
   ['jeans', 'https://www.artofmanliness.com/articles/chuck-norris-action-jeans/'],
+  ['jedward', 'https://www.youtube.com/watch?v=V3yPCQ4ppM8#t=20m43s'],
   ['kicking-ass', 'https://www.youtube.com/watch?v=00y3gV0dJow'],
   ['king', 'https://www.youtube.com/watch?v=grbSQ6O6kbs#t=1m44s'],
   ['king-lear', 'https://www.shmoop.com/king-lear/family-quotes.html'],
