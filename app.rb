@@ -44,6 +44,7 @@ routes = [
   ['cuban-pete', 'https://www.youtube.com/watch?v=qfO_OfmGOl0'],
   ['destroy', 'https://www.amazon.com/OffWorld-Designs-Unisex-Destroy-T-Shirt/dp/B00UCFHU1A'],
   ['diana', 'https://www.youtube.com/watch?v=YrAFqE36anw#t=7m30s'],
+  ['double-barrel', 'https://www.quora.com/Why-are-double-barrelled-tanks-not-common'],
   ['doubledickdude', 'https://reddit.com/u/doubledickdude'],
   ['dougal', 'https://www.youtube.com/watch?v=nmfLS1hWO94#t=2m37s'],
   ['down', 'https://www.youtube.com/watch?v=gT9xuXQjxMM'],
