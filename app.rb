@@ -82,6 +82,7 @@ routes = [
   ['king', 'https://www.youtube.com/watch?v=grbSQ6O6kbs#t=1m44s'],
   ['king-lear', 'https://www.shmoop.com/king-lear/family-quotes.html'],
   ['kiosk', 'https://www.youtube.com/watch?v=72Xki72JkpU'],
+  ['kitchen-gun', 'https://www.youtube.com/watch?v=6-7NDP8V-6A'],
   ['kneegrow', 'https://www.youtube.com/watch?v=JGzw2ecfkqU'], # account deleted
   ['kowloon-walled-city', 'https://en.wikipedia.org/wiki/Kowloon_Walled_City'],
   ['kray', 'https://www.youtube.com/watch?v=mBL3XB-PhE8'],
