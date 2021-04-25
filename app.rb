@@ -8,6 +8,7 @@ routes = [
   ['abfab', 'https://www.youtube.com/watch?v=ToTBlI1w23o'],
   ['ace-ventura', 'https://www.youtube.com/watch?v=RRy5JJfw-JI'],
   ['addams', 'https://www.youtube.com/watch?v=-Z6STPcw3Ac#t=2m39s'],
+  ['all-you-can-eat', 'https://www.youtube.com/watch?v=E2dmfnSarDI#t=2m6s'],
   ['angel', 'https://imgur.com/gallery/FkMkZ'],
   ['anarchy', 'https://www.youtube.com/watch?v=na7A3-UCCYE'],
   ['antechinus', 'https://en.wikipedia.org/wiki/Antechinus'],
