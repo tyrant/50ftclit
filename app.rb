@@ -19,9 +19,11 @@ routes = [
   ['balance', 'https://www.youtube.com/watch?v=PHkbDhzXLV4#t=19m30s'],
   ['barrowman', 'https://www.youtube.com/watch?v=1zY1orxW8Aw#t=45s'],
   ['bastard', 'https://www.youtube.com/watch?v=AR9tGikzKx0'],
+  ['beautiful-bastard', 'https://www.google.com/search?q=morgoth+fanart&tbm=isch&hl=en&sa=X&ved=2ahUKEwim-Iv3vfXxAhUGCCsKHej1BAkQrNwCKAB6BQgBEN0B&biw=1395&bih=1066'],
   ['bedsprings', 'https://www.youtube.com/watch?v=uPxKW7RR7h0#t=29m45s'],
   ['bee-gees', 'https://www.youtube.com/watch?v=TsE-Dqok5mY'],
   ['bellamy', 'https://en.wikipedia.org/wiki/Bellamy_salute'],
+  ['bernard-black', 'https://www.youtube.com/watch?v=j0yAYPedrSI'],
   ['best-korea', 'https://knowyourmeme.com/photos/65469-best-korea'],
   ['big-talk-god', 'https://www.youtube.com/watch?v=EUbjpwyesk0'],
   ['blackadder', 'https://www.youtube.com/watch?v=YLHlP2Vgkx8'],
@@ -116,6 +118,7 @@ routes = [
   ['naked', 'http://thegoonshow.net/scripts_show.asp?title=s05e11_the_spanish_suitcase'],
   ['nethers', 'https://www.youtube.com/watch?v=dHFuzbeTPew'],
   ['one-three', 'https://www.youtube.com/watch?v=SGMfwYmZ6mQ#t=2m51s'], # VIDEO UNAVAILABLE :O 
+  ['particle', 'https://www.youtube.com/watch?v=mD4J5VUwiAs'],
   ['penis-pants', 'https://www.messynessychic.com/2013/08/01/the-1970s-political-activist-who-invented-penis-pants/'],
   ['ping', 'https://www.youtube.com/watch?v=NcHdF1eHhgc#t=2m35s'],
   ['powers', 'https://www.youtube.com/watch?v=3C8Slzx-Gpc#t=2m39s'],
@@ -167,7 +170,7 @@ routes = [
   ['warm', 'https://dilbert.com/strip/1995-01-16'],
   ['wellington', 'https://www.youtube.com/watch?v=Bp0NHIH4WoE#t=15m45s'],
   ['what-a-mistake-a-to-make-a', 'https://www.youtube.com/watch?v=n-PEUuzMlWg'],
-  ['whimsical', 'https://articles.aplus.com/a/dudeoir-woodsman-photoshoot-donates-to-charity'],
+  ['whimsical', 'https://www.instagram.com/the_whimsical_woodsman/'],
   ['winnie-the-pooh', 'https://www.youtube.com/watch?v=H_3oXfgB35E'],
   ['worm', 'https://www.youtube.com/watch?v=LPf9oJV_qDw'],
   ['yap', 'https://www.youtube.com/watch?v=Z3515_x8R9c'],
@@ -179,6 +182,7 @@ get '/:shortened' do
   if route = routes.find {|r| r[0] === params['shortened'] }
     redirect route[1]
   else
+    # It'd actually be neat to keep a log of incorrect URL shortening attempts. Do so here?
     redirect 'https://imgur.com'
   end
 end
