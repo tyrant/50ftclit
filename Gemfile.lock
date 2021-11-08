@@ -50,6 +50,7 @@ DEPENDENCIES
   capistrano-bundler
   capistrano-passenger
   capistrano-rbenv
+  rake (= 13.0.6)
   sinatra
   thin
 

@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-#gem 'rake', '13.0.6'
+gem 'rake', '13.0.6'
 gem 'sinatra'
 gem 'thin' # https://github.com/macournoyer/thin/issues/365#issuecomment-692063842
 gem 'capistrano'
