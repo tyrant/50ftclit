@@ -147,6 +147,7 @@ routes = [
   ['strewth', 'https://www.express.co.uk/comment/expresscomment/532608/Cor-blimey-and-gee-whiz-Origin-of-bizarre-exclamations-revealed'],
   ['strokey-beard', 'https://www.youtube.com/watch?v=-9a_v_RGcTA'],
   ['strong', 'https://www.youtube.com/watch?v=SNw-sqbdkYM'],
+  ['sweetest-wheels-in-christendom', 'https://www.youtube.com/watch?v=zvILGIIVsMU&ab_channel=AbileneWatchdogs'],
   ['swift', 'https://www.youtube.com/watch?v=NfPndEB2ec0'],
   ['taking-the-piss', 'https://en.wikipedia.org/wiki/Taking_the_piss'],
   ['tarantara', 'https://www.youtube.com/watch?v=pmBq_xtuOUM'],
