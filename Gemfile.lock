@@ -48,7 +48,7 @@ PLATFORMS
 DEPENDENCIES
   capistrano
   capistrano-bundler
-  capistrano-passenger (>= 0.2.1)
+  capistrano-passenger
   capistrano-rbenv
   sinatra
   thin
