@@ -6,4 +6,4 @@ gem 'thin' # https://github.com/macournoyer/thin/issues/365#issuecomment-6920638
 gem 'capistrano'
 gem 'capistrano-rbenv'
 gem "capistrano-bundler"
-gem "capistrano-passenger"#, '>= 0.2.1' # https://stackoverflow.com/a/66990911
+gem "capistrano-passenger", '>= 0.2.1' # https://stackoverflow.com/a/66990911
