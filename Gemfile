@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'rake', '13.0.6'
+#gem 'rake', '13.0.6'
 gem 'sinatra'
 gem 'thin' # https://github.com/macournoyer/thin/issues/365#issuecomment-692063842
 gem 'capistrano'
 gem 'capistrano-rbenv'
 gem "capistrano-bundler"
-gem "capistrano-passenger", '>= 0.2.1' # https://stackoverflow.com/a/66990911
+gem "capistrano-passenger"#, '>= 0.2.1' # https://stackoverflow.com/a/66990911
