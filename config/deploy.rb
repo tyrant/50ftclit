@@ -37,7 +37,7 @@ set :deploy_to, "/home/app-user/50ftclit"
 set :ssh_options, { forward_agent: true }
 
 set :rbenv_type, :user
-set :rbenv_ruby, '2.6.5'
+set :rbenv_ruby, '2.5.0'
 
 # http://stackoverflow.com/questions/34126546
 set :rbenv_path, '/home/app-user/.rbenv'
