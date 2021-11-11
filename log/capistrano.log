@@ -1,0 +1,12 @@
+  INFO ---------------------------------------------------------------------------
+  INFO START 2021-11-11 17:40:50 +1300 cap deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [86e6a582] Running [ -d /home/app-user/.rbenv/versions/2.5.0 ] as app-user@119.9.42.4
+ DEBUG [86e6a582] Command: [ -d /home/app-user/.rbenv/versions/2.5.0 ]
+ DEBUG [86e6a582] Finished in 1.521 seconds with exit status 0 (successful).
+ DEBUG [a74a3484] Running /usr/bin/env which passenger as app-user@119.9.42.4
+ DEBUG [a74a3484] Command: /usr/bin/env which passenger
+ DEBUG [a74a3484] 	/usr/bin/passenger
+ DEBUG [a74a3484] Finished in 0.187 seconds with exit status 0 (successful).
+  INFO [e9b7b46e] Running git add -A . as michaelclarke@localhost
+ DEBUG [e9b7b46e] Command: git add -A .
