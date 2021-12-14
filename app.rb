@@ -108,6 +108,7 @@ routes = [
   ['ludicrous', 'https://www.youtube.com/watch?v=mk7VWcuVOf0'],
   ['macho-macho-maaaaan', 'https://pinterest.nz/pin/95349717083017997/'],
   ['man-about-town', 'https://www.youtube.com/watch?v=xMxsLKQidY4'],
+  ['manual-automatic', 'https://www.youtube.com/watch?v=OChmy2oAH7c&ab_channel=WavesForTheMasses'],
   ['matrix', 'https://www.youtube.com/watch?v=2oEnJfZ9joY'],
   ['maui', 'https://www.youtube.com/watch?v=Dadu2KLjMVM'],
   ['macrae-tartan', 'http://clan-macrae.org.uk/scotland/history.cfm?ID=39'],
