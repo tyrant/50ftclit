@@ -41,6 +41,7 @@ routes = [
   ['catacombs', 'https://en.wikipedia.org/wiki/Catacombs_of_Paris'],
   ['challenge', 'https://www.amazon.com/Doc-Johnson-Classic-American-Challenge/dp/B002E9I0F2'],
   ['chaos', 'https://www.youtube.com/watch?v=4xViPStT5II&ab_channel=TheActionLab'],
+  ['chicken-head', 'https://www.youtube.com/watch?v=_dPlkFPowCc&ab_channel=SmarterEveryDay'],
   ['clf3', 'https://blogs.sciencemag.org/pipeline/archives/2008/02/26/sand_wont_save_you_this_time'],
   ['clunge', 'https://www.youtube.com/watch?v=5rx3RwwakAA#t=23m'],
   ['cockney', 'https://www.youtube.com/watch?v=w0aTzevVjqk'],
