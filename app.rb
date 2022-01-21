@@ -53,6 +53,7 @@ routes = [
   ['crack', 'https://www.youtube.com/watch?v=eJW1tzNLwI8'],
   ['cuban-pete', 'https://www.youtube.com/watch?v=qfO_OfmGOl0'],
   ['cute-redhead', 'https://www.youtube.com/watch?v=IQew6ZWJtfI&lc=UgzNn3ZIdzmENaYOzr94AaABAg'],
+  ['darien', 'https://en.wikipedia.org/wiki/Darien_scheme'],
   ['destroy', 'https://www.amazon.com/OffWorld-Designs-Unisex-Destroy-T-Shirt/dp/B00UCFHU1A'],
   ['diana', 'https://www.youtube.com/watch?v=YrAFqE36anw#t=7m30s'],
   ['double-barrel', 'https://www.quora.com/Why-are-double-barrelled-tanks-not-common'],
