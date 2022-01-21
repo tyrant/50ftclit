@@ -146,6 +146,7 @@ routes = [
   ['schlieffen', 'https://en.wikipedia.org/wiki/Schlieffen_Plan'],
   ['scholars-cradle', 'https://www.youtube.com/watch?v=gpqfZJuZRNY'],
   ['shatting', 'https://www.youtube.com/watch?v=yNPBuEwLF1c'],
+  ['sikh-tartan', 'https://medium.com/@TRVL/sikh-and-you-ll-find-a-tartan-33ba046314a5'],
   ['silly', 'https://www.youtube.com/watch?v=W6xXcoVCKp0#t=55s'],
   ['silver', 'https://www.youtube.com/watch?v=QT4fm0f2lZY&lc=UgxODQ8Isf5_jbACalh4AaABAg'],
   ['simmons', 'https://www.youtube.com/watch?v=sRrvPpZtqIU'],
