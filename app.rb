@@ -35,6 +35,7 @@ routes = [
   ['boxing-day-poo', 'https://www.youtube.com/watch?v=_500jmNDZMI#t=24m9s'],
   ['buddy', 'https://www.youtube.com/watch?v=6FigprdcBGA'],
   ['burn-baby-burn', 'https://www.youtube.com/watch?v=u5lSeYd_riw'],
+  ['burns-20-takes', 'https://www.youtube.com/watch?v=pqIGAspuZSM&ab_channel=casodisperato88'],
   ['business-time', 'https://www.youtube.com/watch?v=WGOohBytKTU#t=1m55s'],
   ['butter', 'https://www.youtube.com/watch?v=05Byne839Pg#t=1m16s'],
   #['butterfield-404', 'find that link to his website 404ing'],
