@@ -104,6 +104,7 @@ routes = [
   ['kung-pow', 'https://www.youtube.com/watch?v=TEzoZ6tqUjA'],
   ['lead', 'https://www.youtube.com/watch?v=dceB3SKBw9w'],
   ['lesbian', 'https://www.theguardian.com/books/2015/nov/04/ian-fleming-bond-cured-pussy-galore-psycho-pathological-malady-lesbian'],
+  ['lesbos', 'https://en.wikipedia.org/wiki/Lesbos'],
   ['liger', 'https://www.youtube.com/watch?v=Y5aW6Y4aF0s'],
   ['lobotomobile', 'https://www.thevintagenews.com/2017/01/14/walter-freeman-who-championed-lobotomy-in-the-us-was-touring-with-his-lobotomobile-demonstrating-the-procedure/'],
   ['lobotomobile-myth', 'https://medium.com/@Jack_ElHai/fighting-the-legend-of-the-lobotomobile-1b0acf8a8eb0'],
@@ -130,6 +131,7 @@ routes = [
   ['one-three', 'https://www.youtube.com/watch?v=SGMfwYmZ6mQ#t=2m51s'], # VIDEO UNAVAILABLE :O 
   ['particle', 'https://www.youtube.com/watch?v=mD4J5VUwiAs'],
   ['penis-pants', 'https://www.messynessychic.com/2013/08/01/the-1970s-political-activist-who-invented-penis-pants/'],
+  ['phantom-zone', 'hhtps://www.youtube.com/watch?v=2u3eQc_rx54'],
   ['pierre', 'https://www.youtube.com/watch?v=PIMhizumUnw&t=78s&ab_channel=Swalka1991'],
   ['ping', 'https://www.youtube.com/watch?v=NcHdF1eHhgc#t=2m35s'],
   ['powers', 'https://www.youtube.com/watch?v=3C8Slzx-Gpc#t=2m39s'],
