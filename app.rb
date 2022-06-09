@@ -118,6 +118,7 @@ routes = [
   ['matrix', 'https://www.youtube.com/watch?v=2oEnJfZ9joY'],
   ['maui', 'https://www.youtube.com/watch?v=Dadu2KLjMVM'],
   ['macrae-tartan', 'http://clan-macrae.org.uk/scotland/history.cfm?ID=39'],
+  ['meats-back-on-the-menu-boys', 'https://www.youtube.com/watch?v=ufFOghMt1yI&t=59s'],
   ['mechanic', 'https://mashable.com/2015/04/22/queen-elizabeth-army/'],
   ['mel-b', 'https://www.youtube.com/watch?v=g58CIZYeRFE#t=37m4s'],
   ['mesmer', 'https://en.wikipedia.org/wiki/Animal_magnetism'],
