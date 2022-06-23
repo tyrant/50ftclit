@@ -53,6 +53,7 @@ routes = [
   ['comic-sans', 'https://www.achewood.com/index.php?date=07052007'],
   ['concrete', 'https://www.youtube.com/watch?v=2J0oTemjzrY#t=27m05s'],
   ['crack', 'https://www.youtube.com/watch?v=eJW1tzNLwI8'],
+  ['cricket', 'https://www.youtube.com/watch?v=KdxoPPuAdic'],
   ['cuban-pete', 'https://www.youtube.com/watch?v=qfO_OfmGOl0'],
   ['cute-redhead', 'https://www.youtube.com/watch?v=IQew6ZWJtfI&lc=UgzNn3ZIdzmENaYOzr94AaABAg'],
   ['darien', 'https://en.wikipedia.org/wiki/Darien_scheme'],
