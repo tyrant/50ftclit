@@ -7,6 +7,9 @@ set :repo_url, "git@github.com:tyrant/50ftclit.git"
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
+# But chosen branch is :mistress
+set :branch, :mistress
+
 # Default deploy_to directory is /var/www/my_app_name
 set :deploy_to, "/home/app-user/50ftclit"
 
