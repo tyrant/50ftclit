@@ -1,9 +1,8 @@
 require 'sinatra'
 
-# Routes is an array of arrays. Each subarray's first entry
-# is the shortened URL we're checking for: something like 
-# 50ftcl.it/:shortened; and the second entry is the complete
-# URL we're redirecting to.
+# Routes is an array of arrays. Each subarray's first entry is the shortened URL
+# we're checking for, something like 50ftcl.it/:shortened; and the second entry
+# is the complete URL we're redirecting to.
 routes = [
   ['abfab', 'https://www.youtube.com/watch?v=ToTBlI1w23o'],
   ['ace-ventura', 'https://www.youtube.com/watch?v=RRy5JJfw-JI'],
