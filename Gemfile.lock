@@ -46,12 +46,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  capistrano
-  capistrano-bundler
-  capistrano-passenger
-  capistrano-rbenv
-  puma
-  sinatra
+  capistrano (~> 3.17.0)
+  capistrano-bundler (~> 2.1.0)
+  capistrano-passenger (~> 0.2.0)
+  capistrano-rbenv (~> 2.2.0)
+  puma (~> 5.6.0)
+  sinatra (~> 2.2.0)
 
 BUNDLED WITH
    2.3.7
