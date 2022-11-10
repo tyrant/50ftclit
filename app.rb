@@ -185,6 +185,7 @@ routes = [
   ['tsiolkovsky', 'https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation'],
   ['undies', 'https://www.youtube.com/watch?v=T-ReyfcNWZ8#t=20m5s'], # Video unavailable! :O 
   ['wank', 'https://www.youtube.com/watch?v=Hx_4dcuD6pI#t=39m35s'],
+  ['wanker', 'https://www.youtube.com/watch?v=t6AHCK3if-I#t=10m35s'],
   ['warm', 'https://dilbert.com/strip/1995-01-16'],
   ['wellington', 'https://www.youtube.com/watch?v=Bp0NHIH4WoE#t=15m45s'],
   ['what-a-mistake-a-to-make-a', 'https://www.youtube.com/watch?v=n-PEUuzMlWg'],
