@@ -81,6 +81,7 @@ routes = [
   ['fuckeulogy-the-second', 'https://www.youtube.com/watch?v=7q6PclNhbac'],
   ['gigantosnatch', 'https://www.verbicidemagazine.com/wp-content/uploads/2011/07/dock.jpg'],
   ['goon', 'http://thegoonshow.net/scripts_show.asp?title=s05e17_china_story'],
+  ['gorgeous', 'https://www.youtube.com/watch?v=kzTTO6abhVo'],
   ['great-man', 'https://en.wikipedia.org/wiki/Great_man_theory'],
   ['grond', 'https://www.youtube.com/watch?v=u9BinUHHPv0&lc=Ugxfok9Fq3Msz3i5cVd4AaABAg'],
   ['haka', 'https://www.youtube.com/watch?v=lt6GRghrmaU'],
