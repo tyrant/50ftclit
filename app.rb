@@ -42,6 +42,7 @@ routes = [
   ['carolina-reaper', 'https://www.chilipeppermadness.com/chili-pepper-types/superhot-chili-peppers/carolina-reaper/'],
   ['catacombs', 'https://en.wikipedia.org/wiki/Catacombs_of_Paris'],
   ['challenge', 'https://www.amazon.com/Doc-Johnson-Classic-American-Challenge/dp/B002E9I0F2'],
+  ['champagne', 'https://www.youtube.com/watch?v=NIDabDkcS8o#t=2m'],
   ['chaos', 'https://www.youtube.com/watch?v=dDU2JsgLpm4&ab_channel=WojciechMo'],
   ['chicken-head', 'https://www.youtube.com/watch?v=_dPlkFPowCc&ab_channel=SmarterEveryDay'],
   ['clf3', 'https://blogs.sciencemag.org/pipeline/archives/2008/02/26/sand_wont_save_you_this_time'],
