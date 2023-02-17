@@ -74,6 +74,7 @@ routes = [
   ['faux-sweater', 'https://www.amazon.com/Faux-Real-Sublimated-Christmas-T-Shirt/dp/B07K95W5CG?fbclid=IwAR2Oyt30S0AY47ktoILH7cz1M0fFjLm3cYJ5X6FGQilGp0WRcumZjLmILfE'],
   ['fire', 'https://www.youtube.com/watch?v=0jgrCKhxE1s&ab_channel=DragonForce'],
   ['fix', 'https://www.youtube.com/watch?v=C2s0aOhkjmY'],
+  ['for-the-emperor', 'https://www.goodreads.com/book/show/709611.For_the_Emperor'],
   ['frog', 'https://english.stackexchange.com/questions/430492/why-are-the-french-pejoratively-referred-to-as-frogs'],
   ['fry-laurie-duel', 'https://www.youtube.com/watch?v=sDsn-RRmDXU'],
   ['fuck-hint', 'https://www.youtube.com/watch?v=h68CfIUkPKs'],
