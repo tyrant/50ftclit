@@ -4,6 +4,7 @@ require 'sinatra'
 # we're checking for, something like 50ftcl.it/:shortened; and the second entry
 # is the complete URL we're redirecting to.
 routes = [
+  ['30-odd-foot-of-grunts', 'https://www.youtube.com/watch?v=dEUAGWEbco0'],
   ['abfab', 'https://www.youtube.com/watch?v=ToTBlI1w23o'],
   ['ace-ventura', 'https://www.youtube.com/watch?v=RRy5JJfw-JI'],
   ['addams', 'https://www.youtube.com/watch?v=-Z6STPcw3Ac#t=2m39s'],
