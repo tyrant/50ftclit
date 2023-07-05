@@ -16,6 +16,7 @@ routes = [
   ['ass', 'https://www.youtube.com/watch?v=RXpTXZ2vhPk'],
   ['asshole', 'https://www.youtube.com/watch?v=UrgpZ0fUixs'],
   ['atlas', 'https://www.youtube.com/watch?v=AatcIe1qoT4'],
+  ['baby-poo', 'https://www.youtube.com/watch?v=qkyvE5t6JYc'],
   ['bailey', 'https://www.youtube.com/watch?v=OoxBMfCCnWM'],
   ['balance', 'https://www.youtube.com/watch?v=PHkbDhzXLV4#t=19m30s'],
   ['barrowman', 'https://www.youtube.com/watch?v=1zY1orxW8Aw#t=45s'],
