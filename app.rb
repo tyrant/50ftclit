@@ -79,6 +79,7 @@ routes = [
   ['fire', 'https://www.youtube.com/watch?v=0jgrCKhxE1s&ab_channel=DragonForce'],
   ['fix', 'https://www.youtube.com/watch?v=C2s0aOhkjmY'],
   ['for-the-emperor', 'https://www.goodreads.com/book/show/709611.For_the_Emperor'],
+  ['fridge', 'https://www.youtube.com/watch?v=JVJvURqC8iY#t=1m15s'],
   ['frog', 'https://english.stackexchange.com/questions/430492/why-are-the-french-pejoratively-referred-to-as-frogs'],
   ['fry-laurie-duel', 'https://www.youtube.com/watch?v=sDsn-RRmDXU'],
   ['fuck-hint', 'https://www.youtube.com/watch?v=h68CfIUkPKs'],
