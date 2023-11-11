@@ -19,6 +19,7 @@ routes = [
   ['baby-poo', 'https://www.youtube.com/watch?v=qkyvE5t6JYc'],
   ['bailey', 'https://www.youtube.com/watch?v=OoxBMfCCnWM'],
   ['balance', 'https://www.youtube.com/watch?v=PHkbDhzXLV4#t=19m30s'],
+  ['banana-boots', 'https://www.mediastorehouse.com/memory-lane-prints/mirror/1200to1299-01219/billy-connolly-stage-wearing-big-banana-boots-21834136.html'],
   ['barrowman', 'https://www.youtube.com/watch?v=1zY1orxW8Aw#t=45s'],
   ['bastard', 'https://www.youtube.com/watch?v=AR9tGikzKx0'],
   ['beautiful-bastard', 'https://www.google.com/search?q=melkor+fanart&tbm=isch&ved=2ahUKEwi0_6izj57yAhVDFHIKHbjKADMQ2-cCegQIABAA&oq=melkor+fanart&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB5Q-UlYrVBgplFoAHAAeACAAfQBiAH4B5IBBTAuMy4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=RxIOYfS_GcOoyAO4lYOYAw&bih=1066&biw=1395&hl=en'],
