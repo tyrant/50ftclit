@@ -160,6 +160,7 @@ routes = [
   ['republic-of-texas', 'https://en.wikipedia.org/wiki/Republic_of_Texas'],
   ['roar', 'https://www.youtube.com/watch?v=OH0n_Ew2YDM'],
   ['rosbif', 'https://www.urbandictionary.com/define.php?term=rosbif'],
+  ['royal-marines-commandos', 'https://www.royalnavy.mod.uk/careers/roles/royal-marines-commando'],
   ['salute', 'https://www.youtube.com/watch?v=iPGqfmLMWyo'],
   ['sandy', 'https://www.youtube.com/watch?v=xpC1vAlBULg'],
   ['seals', 'https://navyseals.com/nsw/hell-week-0/'],
