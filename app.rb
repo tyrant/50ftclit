@@ -109,7 +109,7 @@ routes = [
   ['jedward', 'https://www.youtube.com/watch?v=VEuWW2IaNfM'],
   ['kicking-ass', 'https://www.youtube.com/watch?v=00y3gV0dJow'],
   ['king', 'https://www.youtube.com/watch?v=grbSQ6O6kbs#t=1m44s'],
-  ['king-lear', 'https://www.shmoop.com/king-lear/family-quotes.html'],
+  ['king-lear', "https://www.sparknotes.com/nofear/shakespeare/lear/act-1-scene-1/#:~:text=I%20cannot%20conceive%20you.&text=I%20can't%20conceive%20of%20what%20you%20mean.&text=Sir%2C%20this%20young%20fellow's%20mother,Do%20you%20smell%20a%20fault%3F"],
   ['kiosk', 'https://www.youtube.com/watch?v=72Xki72JkpU'],
   ['kitchen-gun', 'https://www.youtube.com/watch?v=6-7NDP8V-6A'],
   ['kneegrow', 'https://www.youtube.com/watch?v=JGzw2ecfkqU'], # account deleted
