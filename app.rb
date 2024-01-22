@@ -100,6 +100,7 @@ routes = [
   ['hope', 'https://www.youtube.com/watch?v=wtoHjGWc2s8#t=2m28s'],
   ['horse-roar', 'https://www.youtube.com/watch?v=RiZead-Wl6o'],
   ['hotdog', 'https://www.atlasobscura.com/places/pentagon-hot-dog-stand'],
+  ['hypnotoad', 'https://www.youtube.com/watch?v=hs0_87n_Mlk'],
   ['i-long-to-nestle-between-your-lordships-thighs', 'https://www.youtube.com/watch?v=SVRODdXVI3Q'],
   ['irish', 'https://www.irishtimes.com/blogs/generationemigration/2013/02/12/when-the-irish-became-white-immigrants-in-mid-19th-century-us/'],
   ['iron-crotch', 'https://www.youtube.com/watch?v=O5mTH_YtH50'],
