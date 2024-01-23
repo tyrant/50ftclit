@@ -162,6 +162,7 @@ routes = [
   ['python-origin', 'https://quora.com/How-did-Monty-Python-get-its-name/answer/Jan-Layton'],
   ['republic-of-texas', 'https://en.wikipedia.org/wiki/Republic_of_Texas'],
   ['roar', 'https://www.youtube.com/watch?v=OH0n_Ew2YDM'],
+  ['rod-stewart', 'https://www.youtube.com/watch?v=b8e7bo0Y_Zk'],
   ['rosbif', 'https://www.urbandictionary.com/define.php?term=rosbif'],
   ['royal-marines-commandos', 'https://www.royalnavy.mod.uk/careers/roles/royal-marines-commando'],
   ['salute', 'https://www.youtube.com/watch?v=iPGqfmLMWyo'],
