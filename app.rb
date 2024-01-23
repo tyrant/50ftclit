@@ -208,6 +208,7 @@ routes = [
   ['trump', 'https://en.wikipedia.org/wiki/Melania_Trump'],
   ['tsiolkovsky', 'https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation'],
   ['undies', 'https://www.youtube.com/watch?v=T-ReyfcNWZ8#t=20m5s'], # Video unavailable! :O 
+  ['vitiligo', 'https://en.wikipedia.org/wiki/Health_and_appearance_of_Michael_Jackson'],
   ['wank', 'https://www.youtube.com/watch?v=u5RjG4-K9Gc'],
   ['wanker', 'https://www.youtube.com/watch?v=o8qM7KwwMaw#t=10m35s'],
   ['warm', 'https://dilbert.com/strip/1995-01-16'],
