@@ -144,6 +144,7 @@ routes = [
   ['mojo', 'https://www.tiktok.com/@cosmicjunkietv/video/7273221082348391686'],
   ['mongrel-mob', 'https://abcnews.go.com/Lifestyle/photos/stunning-portraits-members-mighty-mongrel-mob-31796749/image-31804491'],
   ['mould', 'https://www.youtube.com/watch?v=PD9bVahTGek#t=2m53s'],
+  ['mr-flibble', 'https://www.youtube.com/watch?v=AOE7qTAK87o'],
   ['naked', 'http://thegoonshow.net/scripts_show.asp?title=s05e11_the_spanish_suitcase'],
   ['nethers', 'https://www.youtube.com/watch?v=dHFuzbeTPew'],
   ['one-three', 'https://www.youtube.com/watch?v=SGMfwYmZ6mQ#t=2m51s'], # VIDEO UNAVAILABLE :O 
