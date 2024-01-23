@@ -195,6 +195,7 @@ routes = [
   ['terrorists', 'https://www.youtube.com/watch?v=BGc3zFOFI-s'],
   ['tetris', 'https://www.youtube.com/watch?v=H2Qo3vDxJBc#t=10m4s'],
   ['the-beauty-the-beauty-ohh-the-beauty', 'https://www.youtube.com/watch?v=tEuT9sePcI4'],
+  ['the-bishop', 'https://www.youtube.com/watch?v=gDnE-5lD7w8'],
   ['the-traitors-hand', 'https://www.goodreads.com/en/book/show/463988'],
   ['thighs', 'https://www.youtube.com/watch?v=6cDohyRbzeo#t=2m10s'],
   ['this-bloke', 'https://www.youtube.com/watch?v=jTifRi3qDkU'],
