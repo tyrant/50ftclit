@@ -148,6 +148,7 @@ routes = [
   ['nethers', 'https://www.youtube.com/watch?v=dHFuzbeTPew'],
   ['one-three', 'https://www.youtube.com/watch?v=SGMfwYmZ6mQ#t=2m51s'], # VIDEO UNAVAILABLE :O 
   ['particle', 'https://www.youtube.com/watch?v=mD4J5VUwiAs'],
+  ['pea-souper', 'https://www.britannica.com/event/Great-Smog-of-London'],
   ['penis-pants', 'https://www.messynessychic.com/2013/08/01/the-1970s-political-activist-who-invented-penis-pants/'],
   ['phantom-zone', 'https://www.youtube.com/watch?v=2u3eQc_rx54&t=60s'],
   ['pierre', 'https://www.youtube.com/watch?v=PIMhizumUnw&t=78s&ab_channel=Swalka1991'],
