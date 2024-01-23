@@ -140,6 +140,7 @@ routes = [
   ['mirren', 'https://www.youtube.com/watch?v=n_kGkGUAKRw'],
   ['mirthmobile', 'https://www.youtube.com/watch?v=VzUU7SRRsGo'],
   ['moi', 'https://www.youtube.com/watch?v=noK4SBuz_pY'],
+  ['mojo', 'https://www.tiktok.com/@cosmicjunkietv/video/7273221082348391686'],
   ['mongrel-mob', 'https://abcnews.go.com/Lifestyle/photos/stunning-portraits-members-mighty-mongrel-mob-31796749/image-31804491'],
   ['mould', 'https://www.youtube.com/watch?v=PD9bVahTGek#t=2m53s'],
   ['naked', 'http://thegoonshow.net/scripts_show.asp?title=s05e11_the_spanish_suitcase'],
