@@ -103,6 +103,7 @@ routes = [
   ['hotdog', 'https://www.atlasobscura.com/places/pentagon-hot-dog-stand'],
   ['hypnotoad', 'https://www.youtube.com/watch?v=hs0_87n_Mlk'],
   ['i-long-to-nestle-between-your-lordships-thighs', 'https://www.youtube.com/watch?v=SVRODdXVI3Q'],
+  ['inebriati', 'https://www.youtube.com/watch?v=-Zj50DmBFp0'],
   ['irish', 'https://www.irishtimes.com/blogs/generationemigration/2013/02/12/when-the-irish-became-white-immigrants-in-mid-19th-century-us/'],
   ['iron-crotch', 'https://www.youtube.com/watch?v=O5mTH_YtH50'],
   ['i-vow-to-thee', 'https://www.youtube.com/watch?v=87Xkr8z3lEo'],
@@ -122,6 +123,7 @@ routes = [
   ['lesbian', 'https://www.theguardian.com/books/2015/nov/04/ian-fleming-bond-cured-pussy-galore-psycho-pathological-malady-lesbian'],
   ['lesbos', 'https://en.wikipedia.org/wiki/Lesbos'],
   ['liger', 'https://www.youtube.com/watch?v=Y5aW6Y4aF0s'],
+  ['loathsome-underhanded', 'https://www.youtube.com/watch?v=LaQCnUhIMqs#t=3m38s'],
   ['lobotomobile', 'https://www.thevintagenews.com/2017/01/14/walter-freeman-who-championed-lobotomy-in-the-us-was-touring-with-his-lobotomobile-demonstrating-the-procedure/'],
   ['lobotomobile-myth', 'https://medium.com/@Jack_ElHai/fighting-the-legend-of-the-lobotomobile-1b0acf8a8eb0'],
   ['look-what-happens-when-you-shrink-preproduction-from-three-years-to-three-months-no-seriously-wtf', 'https://www.youtube.com/watch?v=DHQSmJq0nmQ'],
@@ -147,6 +149,7 @@ routes = [
   ['mr-flibble', 'https://www.youtube.com/watch?v=AOE7qTAK87o'],
   ['naked', 'http://thegoonshow.net/scripts_show.asp?title=s05e11_the_spanish_suitcase'],
   ['nethers', 'https://www.youtube.com/watch?v=dHFuzbeTPew'],
+  ['nightmare-fuel-ein', 'https://www.youtube.com/watch?v=IzL_T0mivzI'],
   ['one-three', 'https://www.youtube.com/watch?v=SGMfwYmZ6mQ#t=2m51s'], # VIDEO UNAVAILABLE :O 
   ['particle', 'https://www.youtube.com/watch?v=mD4J5VUwiAs'],
   ['pea-souper', 'https://www.britannica.com/event/Great-Smog-of-London'],
