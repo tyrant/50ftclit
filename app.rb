@@ -74,6 +74,7 @@ routes = [
   ['dressage', 'https://en.wikipedia.org/wiki/Dressage'],
   ['drum', 'https://www.youtube.com/watch?v=8Qi3JERmk9E'],
   ['durteh', 'https://www.youtube.com/watch?v=cVe3fTL1cPM'],
+  ['ejaculate', 'https://www.youtube.com/watch?v=j5QVo6Rio-Q'],
   ['epicanthal', 'https://en.wikipedia.org/wiki/Epicanthic_fold'],
   ['fab', 'https://www.youtube.com/watch?v=nauGAeTNLko'],
   ['f1-tyres', 'https://www.youtube.com/watch?v=pKb2Bt5eC7M#t=4m41s'],
