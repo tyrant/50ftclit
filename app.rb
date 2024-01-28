@@ -159,6 +159,7 @@ routes = [
   ['pierre', 'https://www.youtube.com/watch?v=PIMhizumUnw&t=78s&ab_channel=Swalka1991'],
   ['ping', 'https://www.youtube.com/watch?v=NcHdF1eHhgc#t=2m35s'],
   ['poo-poo', 'https://www.youtube.com/watch?v=df2hO0rhX6o#t=4m43s'],
+  ['portuguese-man-o-war', 'https://www.youtube.com/watch?v=aIovmgzyuL0'],
   ['powers', 'https://www.youtube.com/watch?v=3C8Slzx-Gpc#t=2m39s'],
   ['preen', 'https://www.oglaf.com/stroke/'],
   ['protanomaly', 'https://www.healthline.com/health/eye-health/protan-color-blindness#overview'],
