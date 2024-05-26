@@ -169,6 +169,7 @@ routes = [
   ['pykrete', 'https://medium.com/predict/the-story-of-pykrete-that-time-the-navy-built-a-ship-out-of-ice-and-sawdust-be8de5ab5a00'],
   ['python', 'https://www.youtube.com/watch?v=n5xuoguHxCg'],
   ['python-origin', 'https://quora.com/How-did-Monty-Python-get-its-name/answer/Jan-Layton'],
+  ['queenie', 'https://www.youtube.com/watch?v=rpdpD4n1Ep0'],
   ['republic-of-texas', 'https://en.wikipedia.org/wiki/Republic_of_Texas'],
   ['roar', 'https://www.youtube.com/watch?v=OH0n_Ew2YDM'],
   ['rod-stewart', 'https://www.youtube.com/watch?v=b8e7bo0Y_Zk'],
