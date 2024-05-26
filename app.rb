@@ -13,6 +13,7 @@ routes = [
   ['anarchy', 'https://www.youtube.com/watch?v=na7A3-UCCYE'],
   ['angry-flower', 'http://www.angryflower.com/308.html'],
   ['antechinus', 'https://en.wikipedia.org/wiki/Antechinus'],
+  ['arsole', 'https://www.dailymotion.com/video/x6e0lu5?start=242'],
   ['ass', 'https://www.youtube.com/watch?v=RXpTXZ2vhPk'],
   ['asshole', 'https://www.youtube.com/watch?v=UrgpZ0fUixs'],
   ['atlas', 'https://www.youtube.com/watch?v=AatcIe1qoT4'],
