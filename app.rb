@@ -122,6 +122,7 @@ routes = [
   ['kitchen-gun', 'https://www.youtube.com/watch?v=6-7NDP8V-6A'],
   ['kneegrow', 'https://www.youtube.com/watch?v=JGzw2ecfkqU'], # account deleted
   ['kowloon-walled-city', 'https://en.wikipedia.org/wiki/Kowloon_Walled_City'],
+  ['krakatoa', 'https://www.youtube.com/watch?v=W5TxmI2A_MA'],
   ['kray', 'https://www.youtube.com/watch?v=mBL3XB-PhE8'],
   ['kung-pow', 'https://www.youtube.com/watch?v=TEzoZ6tqUjA'],
   ['lead', 'https://www.youtube.com/watch?v=dceB3SKBw9w'],
