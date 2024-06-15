@@ -186,6 +186,7 @@ routes = [
   ['scholars-cradle', 'https://www.youtube.com/watch?v=gpqfZJuZRNY'],
   ['secretariat', 'https://www.youtube.com/watch?v=kifHFK3VIMo'],
   ['sex-tetris', 'https://www.youtube.com/watch?v=mDrqAA-EpI0#t=16m34s'],
+  ['shaft', 'https://www.youtube.com/watch?v=Q429AOpL_ds'],
   ['shatting', 'https://www.youtube.com/watch?v=yNPBuEwLF1c'],
   ['sikh-tartan', 'https://medium.com/@TRVL/sikh-and-you-ll-find-a-tartan-33ba046314a5'],
   ['silly', 'https://www.youtube.com/watch?v=W6xXcoVCKp0#t=55s'],
