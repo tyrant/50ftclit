@@ -155,6 +155,7 @@ routes = [
   ['naked', 'http://thegoonshow.net/scripts_show.asp?title=s05e11_the_spanish_suitcase'],
   ['nethers', 'https://www.youtube.com/watch?v=dHFuzbeTPew'],
   ['nightmare-fuel-ein', 'https://www.youtube.com/watch?v=IzL_T0mivzI'],
+  ['old-guard', "https://history-maps.com/story/Battle-of-Waterloo/event/Old-Guard's-Last-Stand"],
   ['one-three', 'https://www.youtube.com/watch?v=SGMfwYmZ6mQ#t=2m51s'], # VIDEO UNAVAILABLE :O 
   ['particle', 'https://www.youtube.com/watch?v=mD4J5VUwiAs'],
   ['pea-souper', 'https://www.britannica.com/event/Great-Smog-of-London'],
