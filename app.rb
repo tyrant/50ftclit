@@ -7,6 +7,7 @@ routes = [
   ['30-odd-foot-of-grunts', 'https://www.youtube.com/watch?v=dEUAGWEbco0'],
   ['abfab', 'https://www.youtube.com/watch?v=ToTBlI1w23o'],
   ['ace-ventura', 'https://www.youtube.com/watch?v=RRy5JJfw-JI'],
+  ['ace-ventura-fish-tank', 'https://www.youtube.com/watch?v=oqoFM2koS-Q'],
   ['addams', 'https://www.youtube.com/watch?v=-Z6STPcw3Ac#t=2m39s'],
   ['all-you-can-eat', 'https://www.youtube.com/watch?v=E2dmfnSarDI#t=2m6s'],
   ['angel', 'https://imgur.com/gallery/FkMkZ'],
