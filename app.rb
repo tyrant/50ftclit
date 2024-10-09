@@ -239,6 +239,7 @@ routes = [
   ['winnie-the-pooh', 'https://www.youtube.com/watch?v=H_3oXfgB35E'],
   ['worm', 'https://www.youtube.com/watch?v=LPf9oJV_qDw'],
   ['yap', 'https://www.youtube.com/watch?v=Z3515_x8R9c'],
+  ['yoko-ono', 'https://www.youtube.com/watch?v=FhMhKNcomY8'],
   ['yorkshire', 'https://www.youtube.com/watch?v=VKHFZBUTA4k'],
   ['yorkshire2', 'https://www.youtube.com/watch?v=7Lb-2VaJYPw'],
 ]
