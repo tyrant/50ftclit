@@ -253,3 +253,7 @@ get '/:shortened' do
     redirect 'https://imgur.com'
   end
 end
+
+get '/' do
+  redirect 'https://imgur.com'
+end
