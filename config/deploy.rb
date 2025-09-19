@@ -43,3 +43,4 @@ set :ssh_options, { forward_agent: true }
 
 set :rbenv_type, :user
 set :rbenv_ruby, '3.4.3'
+set :rbenv_path, '/home/noob/.rbenv'
