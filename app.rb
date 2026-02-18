@@ -198,6 +198,7 @@ routes = [
   ['simmons', 'https://www.youtube.com/watch?v=sRrvPpZtqIU'],
   ['snooze', 'https://www.youtube.com/watch?v=Aatlliinymw'],
   ['snow', 'https://www.youtube.com/watch?v=YH4Xr6GIp4U#t=1m40s'],
+  ['soon-baby', 'https://www.youtube.com/watch?v=1G-zvfegoQo#t=2m50s'],
   ['spaceballs', 'https://www.youtube.com/watch?v=LMxTFqPET5I'],
   ['speed-cooking-5', 'https://www.youtube.com/watch?v=74ceC7ERsLc'],
   ['splice-mainbrace', 'https://navymuseum.co.nz/explore/by-themes/customs-and-traditions/splice-the-mainbrace/'],
