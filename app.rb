@@ -35,6 +35,7 @@ routes = [
   ['blackadder', 'https://www.youtube.com/watch?v=YLHlP2Vgkx8'],
   ['bloody-colonials', 'https://en.wikipedia.org/wiki/Six_o%27clock_swill'],
   ['blueprint', 'https://www.dancarlin.com/product/hardcore-history-50-blueprint-for-armageddon-i/'],
+  ['bob-ross', 'https://www.youtube.com/watch?v=mT0RNrTDHkI'],
   ['bond', 'https://www.youtube.com/watch?v=0cjlnnj0gtM#t=3m20s'],
   ['boulder', 'https://www.youtube.com/watch?v=c6XHLe94SJA&t=11s'],
   ['bowie', 'https://www.vogue.co.uk/gallery/david-bowie-style-file-fashion-history-in-pictures'],
