@@ -48,6 +48,7 @@ routes = [
   ['business-time', 'https://www.youtube.com/watch?v=WGOohBytKTU#t=1m55s'],
   ['butter', 'https://www.youtube.com/watch?v=05Byne839Pg#t=1m16s'],
   #['butterfield-404', 'find that link to his website 404ing'],
+  ['camp', 'https://www.youtube.com/watch?v=CZmzxX1cQBw'],
   ['carolina-reaper', 'https://www.chilipeppermadness.com/chili-pepper-types/superhot-chili-peppers/carolina-reaper/'],
   ['catacombs', 'https://en.wikipedia.org/wiki/Catacombs_of_Paris'],
   ['challenge', 'https://www.amazon.com/Doc-Johnson-Classic-American-Challenge/dp/B002E9I0F2'],
