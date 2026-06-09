@@ -70,8 +70,9 @@ DEPENDENCIES
   capistrano-passenger
   capistrano-rbenv
   ed25519
+  ostruct
   puma
   sinatra
 
 BUNDLED WITH
-   2.3.7
+  4.0.10

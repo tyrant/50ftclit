@@ -41,5 +41,5 @@ set :deploy_to, "/home/noob/50ftclit"
 # Uncomment the following to require manually verifying the host key before first deploy.
 set :ssh_options, { forward_agent: true }
 
-set :rbenv_ruby, '3.4.3'
+set :rbenv_ruby, '4.0.5'
 set :rbenv_path, '/home/noob/.rbenv'
