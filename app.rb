@@ -181,6 +181,7 @@ routes = [
   ['racistly', 'https://www.youtube.com/watch?v=X-jVAHAuiS4'],
   ['red-dwarf-rimmer-salute', 'https://www.youtube.com/watch?v=al5bErqFrDQ'],
   ['republic-of-texas', 'https://en.wikipedia.org/wiki/Republic_of_Texas'],
+  ['ride-me-sideways', 'https://www.youtube.com/watch?v=XLTnacYvvg4'],
   ['roar', 'https://www.youtube.com/watch?v=OH0n_Ew2YDM'],
   ['rod-stewart', 'https://www.youtube.com/watch?v=b8e7bo0Y_Zk'],
   ['rosbif', 'https://www.urbandictionary.com/define.php?term=rosbif'],
