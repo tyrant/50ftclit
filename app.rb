@@ -187,6 +187,7 @@ routes = [
   ['rod-stewart', 'https://www.youtube.com/watch?v=b8e7bo0Y_Zk'],
   ['rosbif', 'https://www.urbandictionary.com/define.php?term=rosbif'],
   ['royal-marines-commandos', 'https://www.royalnavy.mod.uk/careers/roles/royal-marines-commando'],
+  ['rude', 'https://www.youtube.com/watch?v=6-FHIZ_VlOw'],
   ['safe-sex', 'https://www.youtube.com/watch?v=asouPYvrUtY'],
   ['salute', 'https://www.youtube.com/watch?v=iPGqfmLMWyo'],
   ['sandy', 'https://www.youtube.com/watch?v=xpC1vAlBULg'],
