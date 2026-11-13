@@ -135,6 +135,7 @@ routes = [
   ['loathsome-underhanded', 'https://www.youtube.com/watch?v=LaQCnUhIMqs#t=3m38s'],
   ['lobotomobile', 'https://www.thevintagenews.com/2017/01/14/walter-freeman-who-championed-lobotomy-in-the-us-was-touring-with-his-lobotomobile-demonstrating-the-procedure/'],
   ['lobotomobile-myth', 'https://medium.com/@Jack_ElHai/fighting-the-legend-of-the-lobotomobile-1b0acf8a8eb0'],
+  ['lolly', 'https://www.youtube.com/watch?v=lj2ZlY2nQ3s'],
   ['look-what-happens-when-you-shrink-preproduction-from-three-years-to-three-months-no-seriously-wtf', 'https://www.youtube.com/watch?v=DHQSmJq0nmQ'],
   ['love', 'https://www.youtube.com/watch?v=jKpN8uEEa5c'],
   ['ludicrous', 'https://www.youtube.com/watch?v=mk7VWcuVOf0'],
