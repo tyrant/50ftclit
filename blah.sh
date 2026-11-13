@@ -3,4 +3,4 @@
 git add .
 git commit -m "Moar"
 git push
-cap production deploy
+bundle exec cap production deploy
